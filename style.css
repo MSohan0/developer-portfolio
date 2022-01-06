@@ -6,7 +6,7 @@ h1{
 .color-cyan{
     color: rgba(230, 61, 97, 0.849);
 }
-section{
+.section1{
     display: flex;
 }
 .width-half {
@@ -29,6 +29,20 @@ section{
     border-radius: 5px;
 }
 
-.h1-2022{
+.h1-center{
+    padding-right:10px ;
+}
+#h1-2022{
     color: orange;
+}
+#go{
+    text-align: center;
+}
+.text_align_center{
+    text-align: center;
+}
+.wideth_one_third{
+    width: 20%;
+    padding: 40px;
+    border-color: orangered;
 }
