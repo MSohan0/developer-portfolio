@@ -24,7 +24,7 @@ h1{
     text-decoration: none;
     color: white;
     font-weight: 550;
-    background-color: rgba(236, 100, 51, 0.863);
+    background-color: rgba(240, 21, 21, 0.671);
     padding: 15px 40px;
     border-radius: 5px;
 }
@@ -38,11 +38,71 @@ h1{
 #go{
     text-align: center;
 }
-.text_align_center{
-    text-align: center;
+.text_size{
+    font:700;
 }
 .wideth_one_third{
-    width: 20%;
-    padding: 40px;
-    border-color: orangered;
+    width: 25%; 
+    
+}
+
+.wideth_one_third img{
+    width: 50%;
+    border-width: 10px;
+    
+
+}
+.pic1_background{
+    background-color: rgba(135, 207, 235, 0.089);
+    border: 10px ;
+    padding: 15px;
+    border-radius: 30px;
+    margin-left: 120px; 
+    margin-right: 25px;
+}
+.pic2_background{
+    background-color: rgba(255, 127, 80, 0.123);
+    border: 10px ;
+    padding: 15px;
+    border-radius: 30px;
+    margin-right: 25px;
+}
+.pic3_background{
+    background-color: rgba(206, 153, 17, 0.164);
+    border: 10px ;
+    padding: 15px;
+    border-radius: 30px;
+    margin-right: 120px;
+}
+.section3{
+    margin-top: 70px;
+}
+.explore-new-button2{
+    text-decoration: none;
+    color: white;
+    font-weight: 550;
+    background-color: rgba(240, 21, 21, 0.671);
+    padding: 15px 50px;
+    border-radius: 5px;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin: 0;
+    border: black;
+
+}
+footer p {
+    text-align: center;
+    font-size: large;
+    
+}
+footer h1{
+    text-align: center;
+}
+.footer_span{
+    color: tomato;
+}
+body{
+    margin: 0;
 }
