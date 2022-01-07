@@ -1,6 +1,16 @@
+.h1_border {
+    font-size: 40px ;
+    font-weight: 700;
+    border-left: 5px solid red;
+    font-family: 'Times New Roman', Times, serif;
+}
 h1{
-    font-family: 'Abril Fatface', cursive;
     font-size: 50px ;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .color-cyan{
@@ -85,11 +95,20 @@ h1{
     padding: 15px 50px;
     border-radius: 5px;
 }
+#paragraph_without_limit{
+    padding-right: 60px;
+}
+#last_paragraph{
+    padding-right: 60px;
+}
+#image img{
+    border-radius: 30px;
+}
 footer{
     background-color: rgb(0, 0, 0);
     color: white;
     margin: 0;
-    border: black;
+    border: b;
 
 }
 footer p {
@@ -104,5 +123,6 @@ footer h1{
     color: tomato;
 }
 body{
-    margin: 0;
+    margin: 0px;
+    padding: 0px;
 }
